@@ -1,0 +1,15 @@
+/dist
+/cinrad.egg-info
+/build
+*.pyc
+/.vs
+.idea/*
+*.ui
+/.vscode
+/cinrad/_utils.c
+/cinrad/correct/_unwrap_2d.c
+/.mypy_cache/*
+*.spec
+docs/build
+.coverage
+htmlcov
